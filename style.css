@@ -16,6 +16,15 @@ body {
   color: hsl(229, 6%, 66%);
 }
 
+.card {
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: scale(1.2);
+  transition: 0.5s ease-in;
+}
+
 .card-cyan {
   border-top: 5px hsl(180, 62%, 55%) solid;
 }
