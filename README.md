@@ -15,11 +15,11 @@
 
 ## Screenshot 1
 
-![Design preview for the Four card feature section coding challenge](./design/screenshot-1.png)
+![Screenshot 1](./design/screenshot-1.jpg)
 
 ## Screenshot 2
 
-![Design preview for the Four card feature section coding challenge](./design/screenshot-2.png)
+![Screenshot-2](./design/screenshot-2.jpg)
 
 ## Design Preview
 
