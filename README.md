@@ -19,7 +19,7 @@
 
 ## Screenshot 2
 
-![Screenshot-2](./design/screenshot-2.jpg)
+![Screenshot-2](./design/screenshot-3.jpg)
 
 ## Design Preview
 
