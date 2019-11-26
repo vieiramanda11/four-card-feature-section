@@ -9,17 +9,17 @@
 
 ## Live Version
 
-[Click here](https://raw.githack.com/vieiramanda11/four-card-feature-section/master/index.html)
+[Click here](https://vieiramanda11.github.io/four-card-feature-section/.)
 
 # Screenshots
 
 ## Screenshot 1
 
-![Design preview for the Four card feature section coding challenge](./design/screenshot-1)
+![Design preview for the Four card feature section coding challenge](./design/screenshot-1.png)
 
 ## Screenshot 2
 
-![Design preview for the Four card feature section coding challenge](./design/screenshot-2)
+![Design preview for the Four card feature section coding challenge](./design/screenshot-2.png)
 
 ## Design Preview
 
